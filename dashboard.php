@@ -1,7 +1,4 @@
-<?php 
-include('lib/header_session.php');
-include('lib/header.php');
-?>
+<?php include('lib/includes.php');?>
 <div class="row">
     <div class="col-mod-12">
         <ul class="breadcrumb">
